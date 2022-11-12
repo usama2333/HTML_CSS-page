@@ -1,0 +1,212 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.maindiv-1{
+    
+    padding: 10px 0px;
+}
+.container{
+    max-width: 1600px;
+}
+.sec{
+    
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.nav-img1{
+    height: 100px;
+    width: 200px;
+}
+
+.img{
+    height: 20px;
+    width: 30px;
+}
+
+.flag-main{
+    display:flex;
+    flex-direction: column;
+    justify-content:space-around;
+    align-items: center;
+   
+}
+
+.main-left{
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+    align-items: center;
+
+}
+
+.ul-class li{
+    text-decoration: none;
+   list-style-type:square;
+}
+
+.ul-class{
+    text-decoration: none;
+}
+
+.hr1{
+    height: 120px;
+    color:black;
+    background-color:black;
+    width:1px;   
+}
+
+.hr-div{
+    width: 82%;
+    height: 4px;
+    background-color: yellow;
+    margin: auto;
+    
+}
+
+.pic1{
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 150px;
+}
+
+.list-div ul li{
+    border-bottom: 1px dotted black;
+    padding: 2px;
+    
+}
+
+.div1-3{
+
+height: 350px
+}
+.div2-3{
+   
+    height: 350px
+ }
+.div3-3{
+        background-color:aliceblue;
+        height: 350px
+ }
+ .heading-div1-3{
+    background-color: grey;
+    text-align: center;
+    color: white;
+ }
+ .list2-div ul li{
+    border-bottom: 1px dotted black;
+
+ }
+ .heading2-div1-3{
+    background-color: grey;
+    text-align: center;
+    color: white;
+ }
+
+
+ .btn-1{
+    background-color: rgb(223, 145, 19);
+    color: white;
+    padding: 4px 6px;
+    font-size: x-small;
+ }
+
+ .select-div{
+    padding: 20px;
+   
+ }
+ .select-brand{
+    font-size: small;
+    color: grey;
+    padding: 0;
+ }
+ .select-brand2{
+    font-size: small;
+    color: grey;
+    padding: 0px;
+ }
+
+
+ .div2-3-h1{
+    color: white;
+    background-color: rgb(237, 188, 25);
+
+ }
+
+
+
+ .inner-pic1{
+    height: 150px;
+ }
+
+ .btn-2{
+    background-color: grey;
+    color: white;
+    font-size: 8px;
+    padding: 2px;
+    margin-top: 3px;
+    width: 30%;
+ }
+ .btn-3{
+    background-color:rgb(237, 188, 25);
+    color: white;
+    font-size: 8px;
+    padding: 2px;
+    margin-top: 3px;
+    width: 30%;
+ }
+
+.text1-p{
+    margin-bottom: 0rem;
+    margin-top: 0rem;
+}
+
+.chec{
+    margin-bottom: 20px;
+}
+
+.picss{
+    height: 70px;
+}
+
+
+.br-pics{
+    height: 120px;
+    width: 170px;
+    margin-right: 30px;
+   
+
+}
+.brands{
+    border: 1px solid black;
+    padding-left: 10px;
+}
+
+.last-hr{
+    color: grey;
+    background-color: grey;
+    height: 5px;
+    width: 75%;
+    margin-left: 180px;
+}
+
+.money-pic{
+    height: 50px;
+}
+
+.last-ul ul li{
+    text-decoration: none;
+    color: blue;
+    list-style-type: none;
+    float: left;
+    margin-right: 30px;
+}
+
+
+
+ 
